@@ -19,7 +19,7 @@
 powershell管理员执行
 
 ```powershell
-irm "https://raw.githubusercontent.com/constansino/WinUtil_CN/main/winutil.zh_CN.20260103.ps1" | iex
+irm "https://raw.githubusercontent.com/constansino/WinUtil_CN/refs/heads/main/winutil.zh_CN.commented.20260103.ps1" | iex
 ````
 ### 更推荐的方式：下载到本地后运行（更安全、可审计）
 1. 下载汉化版脚本到本地（`winutil.zh_CN...ps1`）
